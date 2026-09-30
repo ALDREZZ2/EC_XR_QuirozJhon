@@ -1,6 +1,6 @@
 # XR Interaction Challenge
 
-**Estudiante:** APELLIDOS Y NOMBRES
+**Estudiante:** Quiroz Fernandez Jhon Aldred
 **Código:**  2231893143
 **Curso:** Laboratorio de Realidad Extendida (XR) para Videojuegos
 **Docente:** Victor Alejandro Arroyo Castro
