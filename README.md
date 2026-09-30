@@ -1,7 +1,7 @@
 # XR Interaction Challenge
 
 **Estudiante:** APELLIDOS Y NOMBRES
-**Código:** CODIGO_DEL_ESTUDIANTE
+**Código:**  2231893143
 **Curso:** Laboratorio de Realidad Extendida (XR) para Videojuegos
 **Docente:** Victor Alejandro Arroyo Castro
 
@@ -24,11 +24,6 @@ Con visor Meta Quest (OpenXR):
 
 Sin visor (XR Device Simulator): pulsa Play y usa las teclas indicadas en el panel del simulador
 (WASD para moverte, mouse para apuntar, teclas Grip/Trigger según el panel).
-
-## Capturas
-![Vista general del escenario](Screenshots/01_escenario.png)
-![Configuración XR / Inspector](Screenshots/02_inspector.png)
-![Interacción funcionando](Screenshots/03_interaccion.png)
 
 ## Video demostrativo (máx. 1 minuto)
 [Ver video](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)
