@@ -1,2 +1,41 @@
-# EC_XR_QuirozJhon
-EC de Laboratorio de Realidad Extendida (XR): Unity, URP y XR Interaction Toolkit
+# XR Interaction Challenge
+
+**Estudiante:** APELLIDOS Y NOMBRES
+**Código:** CODIGO_DEL_ESTUDIANTE
+**Curso:** Laboratorio de Realidad Extendida (XR) para Videojuegos
+**Docente:** Victor Alejandro Arroyo Castro
+
+## Descripción breve
+Sala de entrenamiento XR hecha en Unity. El usuario puede agarrar y lanzar objetos sobre una mesa,
+encender o apagar una luz con un botón de interfaz espacial usando el rayo, y teletransportarse por el piso.
+
+## Funcionalidades implementadas
+- Proyecto configurado con URP, OpenXR y XR Interaction Toolkit (2.6.5), con Project Validation sin errores.
+- Escena `EC_XR_ApellidoNombre` con piso, iluminación, 4 paredes como límites visuales y 5 objetos 3D.
+- 5 objetos manipulables con `Rigidbody` + `XR Grab Interactable` (Velocity Tracking, se pueden lanzar).
+- Interacción a distancia: botón en un Canvas World Space que enciende/apaga una luz con el `XR Ray Interactor`.
+- Reto libre: teletransporte con `Teleportation Area` en el piso y `Teleportation Provider` en el XR Origin.
+
+## Controles / instrucciones
+Con visor Meta Quest (OpenXR):
+- Apunta con el rayo a un objeto y presiona **Grip** para agarrarlo; suéltalo para lanzarlo.
+- Apunta al botón "Luz ON / OFF" y presiona **Trigger**.
+- Apunta al piso y presiona **Grip** para teletransportarte.
+
+Sin visor (XR Device Simulator): pulsa Play y usa las teclas indicadas en el panel del simulador
+(WASD para moverte, mouse para apuntar, teclas Grip/Trigger según el panel).
+
+## Capturas
+![Vista general del escenario](Screenshots/01_escenario.png)
+![Configuración XR / Inspector](Screenshots/02_inspector.png)
+![Interacción funcionando](Screenshots/03_interaccion.png)
+
+## Video demostrativo (máx. 1 minuto)
+[Ver video](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)
+
+## Tecnologías y paquetes utilizados
+- Unity 2022.3 LTS (Universal Render Pipeline)
+- XR Plugin Management + OpenXR Plugin
+- XR Interaction Toolkit 2.6.5 (Starter Assets y XR Device Simulator)
+- Input System
+- Lenguaje C#
