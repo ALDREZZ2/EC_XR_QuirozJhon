@@ -26,7 +26,7 @@ Sin visor (XR Device Simulator): pulsa Play y usa las teclas indicadas en el pan
 (WASD para moverte, mouse para apuntar, teclas Grip/Trigger según el panel).
 
 ## Video demostrativo (máx. 1 minuto)
-[Ver video](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)
+(https://drive.google.com/drive/folders/1j4UE8IgViB7ED0nil4-X_Cfc42R6upQI?usp=drive_link)
 
 ## Tecnologías y paquetes utilizados
 - Unity 2022.3 LTS (Universal Render Pipeline)
